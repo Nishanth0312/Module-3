@@ -13,8 +13,9 @@ To write a Python program that filters out and returns all elements from a list 
    - If **not**, append the word to `l1`.
 5. Print the final filtered list.
 
-## 🧾 Programimport re
+## 🧾 Program
 ```
+import re
 l1 = []
 items = ['goal', 'new', 'user', 'sit', 'eat', 'dinner']
 for i in items:
